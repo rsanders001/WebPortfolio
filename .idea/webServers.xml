@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2a71c81d-c7c2-44da-bacd-1247869260e6" name="bitlamp" url="http://rsanders9.bitlampsites.com">
+        <fileTransfer host="rsanders9.bitlampsites.com" port="22" rootFolder="/public_html/portfolio" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
